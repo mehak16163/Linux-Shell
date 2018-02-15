@@ -1,0 +1,15 @@
+history
+ls
+date
+date -U
+date -u
+date -R
+cat my_ls.c
+cat my_ls.c my_date.c
+exit
+ls
+ls -C
+ls -r
+cat -n shell.c
+cat -n my_date.c shell.c
+exit

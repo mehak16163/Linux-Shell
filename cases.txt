@@ -1,0 +1,17 @@
+ls 
+ls ..
+cd ..
+cd <name of directory>
+ls -r 
+ls -C
+pwd
+date 
+date -u
+date -R
+history
+history -c
+history 
+history -r histo.txt
+rm <file not present>
+rm -i <filename>
+rm -v <filename>

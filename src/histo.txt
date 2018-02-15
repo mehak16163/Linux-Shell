@@ -1,0 +1,6 @@
+exit
+cd ..
+cd HW
+pwd
+pwd
+ls -l
